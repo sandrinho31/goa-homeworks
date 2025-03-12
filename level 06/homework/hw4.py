@@ -1,0 +1,7 @@
+print(232 / 4 )
+print(445 // 9)
+print(100 % 20)
+print(12 + 54)
+print(30 - 13)
+print(7 ** 4)
+print(8 * 5)
