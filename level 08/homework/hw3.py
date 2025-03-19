@@ -5,4 +5,4 @@ location = input("enter your location: ")
 occupation = input("enter your occupation")
 hobby = input("enter your hobby: ")
 
-print(name , surname "is ",age  )
+print(name , surname, "is ", age ,"lives in", location, "works as a", occupation, "their hobby is", hobby )
