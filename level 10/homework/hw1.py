@@ -1,2 +1,2 @@
-variable = input("enter a random number ")
+variable = input("enter a random word ")
 print(type(variable))
