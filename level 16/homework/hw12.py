@@ -1,4 +1,4 @@
-password = "puta madrid"
+password = "goabest123"
 user = input("enter password: ")
 while  user != password:
 
